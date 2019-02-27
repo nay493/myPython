@@ -7,6 +7,8 @@ print("1. Mandatory on savings exceeding 1 year\n")
 print("Nisaab: Zakat mandatory exceeding how much gold ?\n")
 print("Nisaab 1.: > 85 grm == 8.5 tola GOLD, then 2.5 % on all 85 grms or above\n")
 print("Nisaab 2.: > 595 grm silver, then 2.5 % on all 85 grms or above\n")
+print("Nisaab 3.: > Money ==> min(equivalent gold, equivalent silver)\n")
+print("Nisaab 4.: > paddy if > 750kg ==> 5%(>750) \n")
 print("Nisaab : which ever is lesser in the above 2 points\n")
 print("Nisaab : 5% on paddy fields\n")
 
