@@ -3,7 +3,7 @@ locals()#!/usr/bin/python3
 import sys
 
 print("Zakat\n")
-print("1. Mandatory on savings exceeding 1 year\n")
+print("1. Mandatory on savings exceeding 1 year Lunar calender(355 days)\n")
 print("Nisaab: Zakat mandatory exceeding how much gold ?\n")
 print("Nisaab 1.: > 85 grm == 8.5 tola GOLD, then 2.5 % on all 85 grms or above\n")
 print("Nisaab 2.: > 595 grm silver, then 2.5 % on all 85 grms or above\n")
