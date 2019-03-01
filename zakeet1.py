@@ -26,6 +26,8 @@ zakNotGivenTo = ['gairMuslim', 'tandurust', 'patienHavingMoney', 'QuarnBuy', 'ka
 # 
 # A land kept for years before re-sale, intended always for selling at the right price,
 # is not liable to zakah until it is sold. On receipt of the price, zakah is payable on the whole amount received, once only.
-#
+# 
+# There is no Zakat due on the house that a person owns and lives in or in the house that he or she owns but their dependents (wives / children etc.) live in.
+# There may, however, be Zakat applicable on any other property or building that a person owns.
 #
 print limit['gold']
