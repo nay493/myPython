@@ -23,5 +23,9 @@ zakNotGivenTo = ['gairMuslim', 'tandurust', 'patienHavingMoney', 'QuarnBuy', 'ka
 # which can be stocked for years like paddy, wheat, dates, etc zakaat should be removed
 # zakaat(amount, 5) --> if water from electricity
 # zakaat(amount, 10) --> if water from Nature
-
+# 
+# A land kept for years before re-sale, intended always for selling at the right price,
+# is not liable to zakah until it is sold. On receipt of the price, zakah is payable on the whole amount received, once only.
+#
+#
 print limit['gold']
